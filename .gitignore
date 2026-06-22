@@ -1,0 +1,17 @@
+# Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Databases
+db.sqlite3
+
+# Static files compiled build folder
+staticfiles/
